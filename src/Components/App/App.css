@@ -1,0 +1,10 @@
+.Dashboard{
+    height: 100%!important;
+}
+
+main{
+    display:block;
+    margin-top:10vh;
+    min-height: 100%!important;
+    max-height: 100%!important;
+}
